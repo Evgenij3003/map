@@ -42,7 +42,7 @@ function initOnlineRoute() {
                 fromEnabled: false,
                 from: locationText,
                 toEnabled: true,
-                to: `${city}, Кирова 2`,
+                to: `${city}, Фрунзе 77`,
             });
         });
         control.routePanel.options.set({                                                        // Настройки отображения панели управления маршрутами (Yandex-map).
